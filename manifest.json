@@ -105,6 +105,59 @@
         "blob/2047e9564462c76bdb5cb0f570ed62e1f689eecf.nq.gz",
         "blob/11fc66ade6a339b501e714a23cd2f5ce5872abed.nq.gz",
         "blob/f2af97c82904072d8307a2bdab4da673d0f68828.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/776178a8f8b9ec995dd8b25a5c12bf2f005027ab.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/776178a8f8b9ec995dd8b25a5c12bf2f005027ab.nq.gz",
+      "repolex": "aggregate/repolex/776178a8f8b9ec995dd8b25a5c12bf2f005027ab.nq.gz",
+      "dep": "dep/776178a8f8b9ec995dd8b25a5c12bf2f005027ab.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "async-generator",
+          "githubOrg": "python-trio",
+          "githubRepo": "async_generator"
+        },
+        {
+          "packageName": "attr",
+          "githubOrg": "denis-ryzhkov",
+          "githubRepo": "attr"
+        },
+        {
+          "packageName": "trio",
+          "githubOrg": "python-trio",
+          "githubRepo": "trio"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme"
+        },
+        {
+          "packageName": "IPython",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython"
+        },
+        {
+          "packageName": "cffi",
+          "githubOrg": "python-cffi",
+          "githubRepo": "cffi"
+        },
+        {
+          "packageName": "sphinx",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx"
+        },
+        {
+          "packageName": "coverage",
+          "githubOrg": "nedbat",
+          "githubRepo": "coveragepy"
+        }
       ]
     }
   ],
