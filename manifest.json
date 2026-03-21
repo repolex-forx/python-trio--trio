@@ -855,48 +855,66 @@
       "dependencies": [
         {
           "packageName": "pytest",
+          "packageVersion": "9.0.2",
           "githubOrg": "pytest-dev",
-          "githubRepo": "pytest"
-        },
-        {
-          "packageName": "async-generator",
-          "githubOrg": "python-trio",
-          "githubRepo": "async_generator"
+          "githubRepo": "pytest",
+          "githubCommit": "HEAD"
         },
         {
           "packageName": "attr",
+          "packageVersion": "0.3.2",
           "githubOrg": "denis-ryzhkov",
-          "githubRepo": "attr"
-        },
-        {
-          "packageName": "trio",
-          "githubOrg": "python-trio",
-          "githubRepo": "trio"
-        },
-        {
-          "packageName": "sphinx-rtd-theme",
-          "githubOrg": "readthedocs",
-          "githubRepo": "sphinx_rtd_theme"
-        },
-        {
-          "packageName": "IPython",
-          "githubOrg": "ipython",
-          "githubRepo": "ipython"
-        },
-        {
-          "packageName": "cffi",
-          "githubOrg": "python-cffi",
-          "githubRepo": "cffi"
+          "githubRepo": "attr",
+          "githubCommit": "HEAD"
         },
         {
           "packageName": "sphinx",
+          "packageVersion": "9.1.0rc2",
           "githubOrg": "sphinx-doc",
-          "githubRepo": "sphinx"
+          "githubRepo": "sphinx",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "trio",
+          "packageVersion": "0.9.0",
+          "githubOrg": "python-trio",
+          "githubRepo": "trio",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "async-generator",
+          "packageVersion": "1.9.0",
+          "githubOrg": "python-trio",
+          "githubRepo": "async_generator",
+          "githubCommit": "HEAD"
         },
         {
           "packageName": "coverage",
+          "packageVersion": "7.9.2",
           "githubOrg": "nedbat",
-          "githubRepo": "coveragepy"
+          "githubRepo": "coveragepy",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "IPython",
+          "packageVersion": "9.9.0",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "packageVersion": "3.1.0rc2",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "cffi",
+          "packageVersion": "2.0.0b1",
+          "githubOrg": "python-cffi",
+          "githubRepo": "cffi",
+          "githubCommit": "HEAD"
         }
       ]
     },
