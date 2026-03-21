@@ -2056,6 +2056,94 @@
         "blob/909ccf1bb3f8612d8dcd2580f18bf118297aecad.nq.gz",
         "blob/ce78832087e7a854ddf0d54f0ffe12dae6f265aa.nq.gz",
         "blob/f2af97c82904072d8307a2bdab4da673d0f68828.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/7fa11bdbcfee1c65d0bff590337ed4355ebbe44b.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/7fa11bdbcfee1c65d0bff590337ed4355ebbe44b.nq.gz",
+      "repolex": "aggregate/repolex/7fa11bdbcfee1c65d0bff590337ed4355ebbe44b.nq.gz",
+      "dep": "dep/7fa11bdbcfee1c65d0bff590337ed4355ebbe44b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pytest",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest"
+        },
+        {
+          "packageName": "trio",
+          "githubOrg": "python-trio",
+          "githubRepo": "trio"
+        },
+        {
+          "packageName": "attr",
+          "githubOrg": "denis-ryzhkov",
+          "githubRepo": "attr"
+        },
+        {
+          "packageName": "IPython",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython"
+        },
+        {
+          "packageName": "sphinx",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx"
+        },
+        {
+          "packageName": "trustme",
+          "githubOrg": "python-trio",
+          "githubRepo": "trustme"
+        },
+        {
+          "packageName": "outcome",
+          "githubOrg": "python-trio",
+          "githubRepo": "outcome"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme"
+        },
+        {
+          "packageName": "cffi",
+          "githubOrg": "python-cffi",
+          "githubRepo": "cffi"
+        },
+        {
+          "packageName": "async-generator",
+          "githubOrg": "python-trio",
+          "githubRepo": "async_generator"
+        },
+        {
+          "packageName": "pylint",
+          "githubOrg": "pylint-dev",
+          "githubRepo": "pylint"
+        },
+        {
+          "packageName": "coverage",
+          "githubOrg": "nedbat",
+          "githubRepo": "coveragepy"
+        },
+        {
+          "packageName": "sniffio",
+          "githubOrg": "python-trio",
+          "githubRepo": "sniffio"
+        },
+        {
+          "packageName": "jedi",
+          "githubOrg": "davidhalter",
+          "githubRepo": "jedi"
+        },
+        {
+          "packageName": "astor",
+          "githubOrg": "berkerpeksag",
+          "githubRepo": "astor"
+        },
+        {
+          "packageName": "cryptography",
+          "githubOrg": "pyca",
+          "githubRepo": "cryptography"
+        }
       ]
     },
     {
