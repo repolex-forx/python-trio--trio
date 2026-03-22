@@ -1,5 +1,11 @@
 {
   "org": "python-trio",
   "repo": "trio",
-  "versions": []
+  "versions": [
+    {
+      "commit": "7ef6f09f79ec3ce3ba8c3658cfa79457c55952ed",
+      "tag": "",
+      "parsed_at": ""
+    }
+  ]
 }
