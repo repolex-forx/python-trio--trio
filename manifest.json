@@ -36427,6 +36427,84 @@
         "blob/17f1cb941ccc1f2f931de5193625ac9009d3605f.nq.gz",
         "blob/9f9ad59725933c92744c5cf527466c030dbe44be.nq.gz",
         "blob/6b4adf298a662e306e9059fbfda554bb002b3268.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/5d8fc470563fad959ffced897e8320d997993f4d.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/5d8fc470563fad959ffced897e8320d997993f4d.nq.gz",
+      "repolex": "aggregate/repolex/5d8fc470563fad959ffced897e8320d997993f4d.nq.gz",
+      "dep": "dep/5d8fc470563fad959ffced897e8320d997993f4d.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "trio",
+          "packageVersion": "0.9.0",
+          "githubOrg": "python-trio",
+          "githubRepo": "trio",
+          "githubCommit": "82c01f59ba0e8a960f7da9371ea7b5d40b1ea7d5"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "cffi",
+          "packageVersion": "2.0.0b1",
+          "githubOrg": "python-cffi",
+          "githubRepo": "cffi",
+          "githubCommit": "195cbda66b6be9297ef6d584644e50cfdcca4e8a"
+        },
+        {
+          "packageName": "IPython",
+          "packageVersion": "9.9.0",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython",
+          "githubCommit": "0c28fe5821b85b091bf5693ff5ba3eda7bcc49ec"
+        },
+        {
+          "packageName": "async-generator",
+          "packageVersion": "1.9.0",
+          "githubOrg": "python-trio",
+          "githubRepo": "async_generator",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "attr",
+          "packageVersion": "0.3.2",
+          "githubOrg": "denis-ryzhkov",
+          "githubRepo": "attr",
+          "githubCommit": "27ae02f3d5f896dbfbce232085bdd7d0e0ded89c"
+        },
+        {
+          "packageName": "sphinx",
+          "packageVersion": "9.1.0rc2",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubCommit": "8ab960098a8e12b8893bd3ceafc394759118346b"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "packageVersion": "3.1.0rc2",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
+        },
+        {
+          "packageName": "trustme",
+          "packageVersion": "1.2.1",
+          "githubOrg": "python-trio",
+          "githubRepo": "trustme",
+          "githubCommit": "6d39f51de72ce21bbb1d3842f8ed795b39e4cc9b"
+        },
+        {
+          "packageName": "coverage",
+          "packageVersion": "7.9.2",
+          "githubOrg": "nedbat",
+          "githubRepo": "coveragepy",
+          "githubCommit": "6e774923cf042751feb78036fcd46909d263be06"
+        }
       ]
     },
     {
