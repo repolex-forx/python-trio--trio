@@ -3,6 +3,11 @@
   "repo": "trio",
   "versions": [
     {
+      "commit": "0b8d3e2435ca9cb00a1aab72bf98da334dec2b1c",
+      "tag": "",
+      "parsed_at": ""
+    },
+    {
       "commit": "36f3a37bb236356bf3ba45764df389a0e24e3933",
       "tag": "",
       "parsed_at": ""
