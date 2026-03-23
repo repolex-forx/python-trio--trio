@@ -43228,6 +43228,161 @@
         "blob/9f9ad59725933c92744c5cf527466c030dbe44be.nq.gz",
         "blob/6b4adf298a662e306e9059fbfda554bb002b3268.nq.gz",
         "blob/ea45edaef635e2741d472ae2534b53bebf997d6b.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/3073f0c2108bad83c27dda6c83474a9b8ce4a957.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/3073f0c2108bad83c27dda6c83474a9b8ce4a957.nq.gz",
+      "repolex": "aggregate/repolex/3073f0c2108bad83c27dda6c83474a9b8ce4a957.nq.gz",
+      "dep": "dep/3073f0c2108bad83c27dda6c83474a9b8ce4a957.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "attrs",
+          "packageVersion": "26.1.0",
+          "githubOrg": "python-attrs",
+          "githubRepo": "attrs",
+          "githubCommit": "7bfc49e9b22d5ba25b6e429524c3d49fee27cb36"
+        },
+        {
+          "packageName": "idna",
+          "packageVersion": "3.9.0",
+          "githubOrg": "kjd",
+          "githubRepo": "idna",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "outcome",
+          "packageVersion": "1.3.0.post0",
+          "githubOrg": "python-trio",
+          "githubRepo": "outcome",
+          "githubCommit": "bf687c97ce6f010d092bfcaecad51132fb978725"
+        },
+        {
+          "packageName": "sniffio",
+          "packageVersion": "1.3.1",
+          "githubOrg": "python-trio",
+          "githubRepo": "sniffio",
+          "githubCommit": "ae020e13b98d276a6558ffc25e82509fd4c288f0"
+        },
+        {
+          "packageName": "cffi",
+          "packageVersion": "2.0.0b1",
+          "githubOrg": "python-cffi",
+          "githubRepo": "cffi",
+          "githubCommit": "195cbda66b6be9297ef6d584644e50cfdcca4e8a"
+        },
+        {
+          "packageName": "exceptiongroup",
+          "packageVersion": "1.3.1",
+          "githubOrg": "agronholm",
+          "githubRepo": "exceptiongroup",
+          "githubCommit": "ddddb6fdf8582c4ae5187dc1bd258115974229fe"
+        },
+        {
+          "packageName": "trio",
+          "packageVersion": "0.9.0",
+          "githubOrg": "python-trio",
+          "githubRepo": "trio",
+          "githubCommit": "82c01f59ba0e8a960f7da9371ea7b5d40b1ea7d5"
+        },
+        {
+          "packageName": "typing-extensions",
+          "packageVersion": "4.9.0rc1",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f82d6367f3ff8f16b6291de06394ec6b9318bfc3"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "sphinx",
+          "packageVersion": "9.1.0rc2",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubCommit": "8ab960098a8e12b8893bd3ceafc394759118346b"
+        },
+        {
+          "packageName": "mypy",
+          "packageVersion": "1.9.0",
+          "githubOrg": "python",
+          "githubRepo": "mypy",
+          "githubCommit": "5ff46f8b3706d005fabab2227ec84476d605bfd4"
+        },
+        {
+          "packageName": "jedi",
+          "packageVersion": "0.9.0",
+          "githubOrg": "davidhalter",
+          "githubRepo": "jedi",
+          "githubCommit": "66557903ae4c1174eb437a8feeeb718e69d5fa3a"
+        },
+        {
+          "packageName": "astor",
+          "packageVersion": "0.8.1",
+          "githubOrg": "berkerpeksag",
+          "githubRepo": "astor",
+          "githubCommit": "c7553c79f9222e20783fe9bd8a553f932e918072"
+        },
+        {
+          "packageName": "hypothesis",
+          "packageVersion": "6.99.9",
+          "githubOrg": "HypothesisWorks",
+          "githubRepo": "hypothesis",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "ruff",
+          "packageVersion": "0.9.9",
+          "githubOrg": "astral-sh",
+          "githubRepo": "ruff",
+          "githubCommit": "091d0af2ab026a08b82d4aa7d3ab6b1ca4db778c"
+        },
+        {
+          "packageName": "async-generator",
+          "packageVersion": "1.9.0",
+          "githubOrg": "python-trio",
+          "githubRepo": "async_generator",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "pylint",
+          "packageVersion": "4.0.5",
+          "githubOrg": "pylint-dev",
+          "githubRepo": "pylint",
+          "githubCommit": "88e1ab7545a4af4aea15c305a154c164a95ab842"
+        },
+        {
+          "packageName": "trustme",
+          "packageVersion": "1.2.1",
+          "githubOrg": "python-trio",
+          "githubRepo": "trustme",
+          "githubCommit": "6d39f51de72ce21bbb1d3842f8ed795b39e4cc9b"
+        },
+        {
+          "packageName": "pyright",
+          "packageVersion": "1.1.408",
+          "githubOrg": "RobertCraigie",
+          "githubRepo": "pyright-python",
+          "githubCommit": "81b795a41ddcc3c77218d8c8e406983e39852285"
+        },
+        {
+          "packageName": "cryptography",
+          "packageVersion": "46.0.5",
+          "githubOrg": "pyca",
+          "githubRepo": "cryptography",
+          "githubCommit": "06e120e682cb200e3f7050c02f0bcdac90c4c6ad"
+        },
+        {
+          "packageName": "black",
+          "packageVersion": "26.3.1",
+          "githubOrg": "psf",
+          "githubRepo": "black",
+          "githubCommit": "c6755bb741b6481d6b3d3bb563c83fa060db96c9"
+        }
       ]
     },
     {
