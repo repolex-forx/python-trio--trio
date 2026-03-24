@@ -55340,6 +55340,112 @@
         "blob/6b4adf298a662e306e9059fbfda554bb002b3268.nq.gz",
         "blob/1d4add96b54416eb9d26b63431a5deee81710591.nq.gz",
         "blob/ea45edaef635e2741d472ae2534b53bebf997d6b.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/82c01f59ba0e8a960f7da9371ea7b5d40b1ea7d5.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/82c01f59ba0e8a960f7da9371ea7b5d40b1ea7d5.nq.gz",
+      "repolex": "aggregate/repolex/82c01f59ba0e8a960f7da9371ea7b5d40b1ea7d5.nq.gz",
+      "dep": "dep/82c01f59ba0e8a960f7da9371ea7b5d40b1ea7d5.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "trio",
+          "packageVersion": "0.9.0",
+          "githubOrg": "python-trio",
+          "githubRepo": "trio",
+          "githubCommit": "82c01f59ba0e8a960f7da9371ea7b5d40b1ea7d5"
+        },
+        {
+          "packageName": "pytest",
+          "packageVersion": "9.0.2",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3d10b5148e03eb82b3ee29181dbdc73cf82699e2"
+        },
+        {
+          "packageName": "async-generator",
+          "packageVersion": "1.9.0",
+          "githubOrg": "python-trio",
+          "githubRepo": "async_generator",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "outcome",
+          "packageVersion": "1.3.0.post0",
+          "githubOrg": "python-trio",
+          "githubRepo": "outcome",
+          "githubCommit": "bf687c97ce6f010d092bfcaecad51132fb978725"
+        },
+        {
+          "packageName": "IPython",
+          "packageVersion": "9.9.0",
+          "githubOrg": "ipython",
+          "githubRepo": "ipython",
+          "githubCommit": "0c28fe5821b85b091bf5693ff5ba3eda7bcc49ec"
+        },
+        {
+          "packageName": "attr",
+          "packageVersion": "0.3.2",
+          "githubOrg": "denis-ryzhkov",
+          "githubRepo": "attr",
+          "githubCommit": "27ae02f3d5f896dbfbce232085bdd7d0e0ded89c"
+        },
+        {
+          "packageName": "cffi",
+          "packageVersion": "2.0.0b1",
+          "githubOrg": "python-cffi",
+          "githubRepo": "cffi",
+          "githubCommit": "195cbda66b6be9297ef6d584644e50cfdcca4e8a"
+        },
+        {
+          "packageName": "pylint",
+          "packageVersion": "4.0.5",
+          "githubOrg": "pylint-dev",
+          "githubRepo": "pylint",
+          "githubCommit": "88e1ab7545a4af4aea15c305a154c164a95ab842"
+        },
+        {
+          "packageName": "sphinx-rtd-theme",
+          "packageVersion": "3.1.0rc2",
+          "githubOrg": "readthedocs",
+          "githubRepo": "sphinx_rtd_theme",
+          "githubCommit": "fbe5e6004195a1e75654eface1884485c57eb68e"
+        },
+        {
+          "packageName": "coverage",
+          "packageVersion": "7.9.2",
+          "githubOrg": "nedbat",
+          "githubRepo": "coveragepy",
+          "githubCommit": "6e774923cf042751feb78036fcd46909d263be06"
+        },
+        {
+          "packageName": "sphinx",
+          "packageVersion": "9.1.0rc2",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubCommit": "8ab960098a8e12b8893bd3ceafc394759118346b"
+        },
+        {
+          "packageName": "jedi",
+          "packageVersion": "0.9.0",
+          "githubOrg": "davidhalter",
+          "githubRepo": "jedi",
+          "githubCommit": "66557903ae4c1174eb437a8feeeb718e69d5fa3a"
+        },
+        {
+          "packageName": "sniffio",
+          "packageVersion": "1.3.1",
+          "githubOrg": "python-trio",
+          "githubRepo": "sniffio",
+          "githubCommit": "ae020e13b98d276a6558ffc25e82509fd4c288f0"
+        },
+        {
+          "packageName": "trustme",
+          "packageVersion": "1.2.1",
+          "githubOrg": "python-trio",
+          "githubRepo": "trustme",
+          "githubCommit": "6d39f51de72ce21bbb1d3842f8ed795b39e4cc9b"
+        }
       ]
     }
   ],
