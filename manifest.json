@@ -65377,6 +65377,38 @@
         "blob/e0a8f939b74bf7192739f0864b482b2e79a7ac08.nq.gz",
         "blob/7c5c536676f231c9efec80009f910ae84bfefb19.nq.gz",
         "blob/e3989152ea0e25f9dba596ab6086a7a732bac7ae.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/d47e018d84862eecd9a896bf127159436a473494.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/d47e018d84862eecd9a896bf127159436a473494.nq.gz",
+      "repolex": "aggregate/repolex/d47e018d84862eecd9a896bf127159436a473494.nq.gz",
+      "dep": "dep/d47e018d84862eecd9a896bf127159436a473494.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "attr",
+          "ecosystem": "PYPI",
+          "version": "0.3.2",
+          "githubOrg": "denis-ryzhkov",
+          "githubRepo": "attr",
+          "githubCommit": "27ae02f3d5f896dbfbce232085bdd7d0e0ded89c",
+          "githubTag": "0.3.2",
+          "githubUrl": "https://github.com/denis-ryzhkov/attr",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/attr/__init__.py"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "82.0.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "5a13876673a41e3cd21d4d6e587f53d0fb4fd8e5",
+          "githubTag": "v82.0.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        }
       ]
     }
   ],
