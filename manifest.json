@@ -83471,6 +83471,73 @@
         "blob/e0a8f939b74bf7192739f0864b482b2e79a7ac08.nq.gz",
         "blob/7c5c536676f231c9efec80009f910ae84bfefb19.nq.gz",
         "blob/e3989152ea0e25f9dba596ab6086a7a732bac7ae.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/8741c58def83defc84ab2734f95f2f8d51c21920.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/8741c58def83defc84ab2734f95f2f8d51c21920.nq.gz",
+      "repolex": "aggregate/repolex/8741c58def83defc84ab2734f95f2f8d51c21920.nq.gz",
+      "dep": "dep/8741c58def83defc84ab2734f95f2f8d51c21920.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "attr",
+          "ecosystem": "PYPI",
+          "version": "0.3.2",
+          "githubOrg": "denis-ryzhkov",
+          "githubRepo": "attr",
+          "githubCommit": "27ae02f3d5f896dbfbce232085bdd7d0e0ded89c",
+          "githubTag": "0.3.2",
+          "githubUrl": "https://github.com/denis-ryzhkov/attr",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/attr/__init__.py"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "82.0.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "5a13876673a41e3cd21d4d6e587f53d0fb4fd8e5",
+          "githubTag": "v82.0.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/__init__.py"
+        },
+        {
+          "packageName": "attrs",
+          "ecosystem": "PYPI",
+          "version": "26.1.0",
+          "githubOrg": "python-attrs",
+          "githubRepo": "attrs",
+          "githubCommit": "7bfc49e9b22d5ba25b6e429524c3d49fee27cb36",
+          "githubTag": "26.1.0",
+          "githubUrl": "https://github.com/python-attrs/attrs",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/attrs/__init__.py"
+        },
+        {
+          "packageName": "idna",
+          "ecosystem": "PYPI",
+          "version": "3.11.0",
+          "githubOrg": "kjd",
+          "githubRepo": "idna",
+          "githubUrl": "https://github.com/kjd/idna",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/idna/__init__.py"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.15.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "9d1637e264b5c1a6b7acee3e907015f89b20c2c9",
+          "githubTag": "4.15.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],
