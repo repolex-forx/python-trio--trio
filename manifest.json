@@ -63362,6 +63362,76 @@
         "blob/e0a8f939b74bf7192739f0864b482b2e79a7ac08.nq.gz",
         "blob/7c5c536676f231c9efec80009f910ae84bfefb19.nq.gz",
         "blob/e3989152ea0e25f9dba596ab6086a7a732bac7ae.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/1497c77105bf4b69b5328ba36d619d2d1927bc97.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/1497c77105bf4b69b5328ba36d619d2d1927bc97.nq.gz",
+      "repolex": "aggregate/repolex/1497c77105bf4b69b5328ba36d619d2d1927bc97.nq.gz",
+      "dep": "dep/1497c77105bf4b69b5328ba36d619d2d1927bc97.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "attrs",
+          "ecosystem": "PYPI",
+          "version": "23.2.0",
+          "githubOrg": "python-attrs",
+          "githubRepo": "attrs",
+          "githubCommit": "9e443b18527dc96b194e92805fa751cbf8434ba9",
+          "githubTag": "23.2.0",
+          "githubUrl": "https://github.com/python-attrs/attrs",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "idna",
+          "ecosystem": "PYPI",
+          "version": "3.11.0",
+          "githubOrg": "kjd",
+          "githubRepo": "idna",
+          "githubUrl": "https://github.com/kjd/idna",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "outcome",
+          "ecosystem": "PYPI",
+          "version": "1.3.0.post0",
+          "githubOrg": "python-trio",
+          "githubRepo": "outcome",
+          "githubCommit": "bf687c97ce6f010d092bfcaecad51132fb978725",
+          "githubTag": "v1.3.0.post0",
+          "githubUrl": "https://github.com/python-trio/outcome",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sniffio",
+          "ecosystem": "PYPI",
+          "version": "1.3.0",
+          "githubOrg": "python-trio",
+          "githubRepo": "sniffio",
+          "githubCommit": "cb8a03d45371efb20156ec895003a9bd988ac89b",
+          "githubTag": "v1.3.0",
+          "githubUrl": "https://github.com/python-trio/sniffio",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "cffi",
+          "ecosystem": "PYPI",
+          "version": "1.14",
+          "githubOrg": "python-cffi",
+          "githubRepo": "cffi",
+          "githubUrl": "https://github.com/python-cffi/cffi",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "exceptiongroup",
+          "ecosystem": "PYPI",
+          "version": "1.3.1",
+          "githubOrg": "agronholm",
+          "githubRepo": "exceptiongroup",
+          "githubCommit": "ddddb6fdf8582c4ae5187dc1bd258115974229fe",
+          "githubTag": "1.3.1",
+          "githubUrl": "https://github.com/agronholm/exceptiongroup",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     },
     {
